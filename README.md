@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy [Francisco Amaro ] 👋
 
-<!--
-**franamaro-dev/franamaro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Ingeniero de Sistemas de IA y Automatización Soberana
+Me especializo en diseñar arquitecturas que garantizan la **soberanía del dato** en territorio español, utilizando herramientas de vanguardia para escalar procesos de negocio de forma eficiente y segura.
 
-Here are some ideas to get you started:
+- 🛠️ **Stack Tecnológico:** Python (FastAPI/Django), n8n (Self-hosted), Docker, PostgreSQL.
+- 🔒 **Expertise:** Firmas criptográficas XAdES/PAdES, integración de Agentes LLM y cumplimiento RGPD.
+- ⚡ **Metodología:** Trabajo asíncrono, documentación técnica exhaustiva y optimización mediante IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Conectemos
+- **Enfoque:** 100% Remoto | Asíncrono
+- **Intereses:** TaxTech, LegalTech y Automatización de Agentes de IA.
