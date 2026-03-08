@@ -1,4 +1,4 @@
-# Hola, soy [Francisco Amaro ] 👋
+# Hola, soy Francisco Amaro  👋
 
 ### 🚀 Ingeniero de Sistemas de IA y Automatización Soberana
 Me especializo en diseñar arquitecturas que garantizan la **soberanía del dato** en territorio español, utilizando herramientas de vanguardia para escalar procesos de negocio de forma eficiente y segura.
