@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi, I'm Francisco Amaro 👋</h1>
+  <h1>Hola, soy Francisco Amaro 👋</h1>
   <h3>Senior Backend Engineer & Systems Architect</h3>
-  <p><i>Designing Async-First, Zero-Trust Infrastructure for Strict Financial Compliance</i></p>
+  <p><i>Diseñando Infraestructura Async-First y Zero-Trust para Cumplimiento Financiero Estricto</i></p>
 
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -14,18 +14,18 @@
 
 ---
 
-## 🏗️ Technical Philosophy
-I specialize in building **high-throughput, self-hosted data pipelines** that guarantee 100% data sovereignty for the European market (e.g., TicketBAI, VeriFactu). My core methodology is strictly **Async-First**, relying on deep Python ecosystem knowledge, robust CI/CD, and transparent technical documentation.
+## 🏗️ Filosofía Técnica
+Me especializo en construir **pipelines de datos self-hosted de alto rendimiento** que garantizan el 100% de la *soberanía del dato* para el mercado europeo (ej. TicketBAI, VeriFactu). Mi metodología principal es estrictamente **Async-First**, basándome en un profundo conocimiento del ecosistema Python, CI/CD robusto y documentación técnica transparente.
 
-## 🛠️ Ecosystem Roadmap
-This is my core matrix of Open-Source infrastructure projects.
+## 🛠️ Roadmap del Ecosistema
+Esta es mi matriz principal de proyectos de infraestructura Open-Source.
 
-| Project | Status | Description | Domain |
+| Proyecto | Estado | Descripción | Dominio |
 | :--- | :---: | :--- | :--- |
-| **[VeriStack](https://github.com/franamaro-dev/VeriStack)** | 🟢 **Live** | Self-hosted RAG & PKCS12 hub for zero-trust tax compliance. | *Core API & AI* |
-| **[FlowNode]** | 🚧 *In Dev* | High-throughput distributed Celery worker engine for scalable document processing. | *Event-Driven* |
-| **[TerraStack]** | ⏳ *Planned* | Infrastructure-as-Code (Terraform/Ansible) templates for zero-trust FinTech deployments. | *DevOps/IaC* |
-| **[PyVeri]** | ⏳ *Planned* | Type-safe, minimal-dependency Python SDK for deep cryptographic validation. | *Python SDK* |
+| **[VeriStack]** | 🟢 **Live** | RAG Self-hosted & orquestador PKCS12 para cumplimiento fiscal Zero-Trust. | *Core API & AI* |
+| **[FlowNode]** | 🟢 **Live** | Motor distributed Celery de alto throughput para procesamiento asíncrono. | *Event-Driven* |
+| **[TerraStack]** | 🟢 **Live** | Templates Infrastructure-as-Code (Terraform/Ansible) para despliegues Zero-Trust. | *DevOps/IaC* |
+| **[PyVeri]** | 🟢 **Live** | SDK de Python *type-safe* y sin dependencias para validación criptográfica profunda. | *Python SDK* |
 
 ## 📊 GitHub Metrics
 
@@ -36,6 +36,6 @@ This is my core matrix of Open-Source infrastructure projects.
 </div>
 
 ---
-### 📬 Connect asynchronously
-- 💼 **Focus:** 100% Remote | Async
-- 📍 **Interests:** Distributed Systems, Data Sovereignty, LegalTech
+### 📬 Conectemos asíncronamente
+- 💼 **Enfoque:** 100% Remoto | Async
+- 📍 **Intereses:** Sistemas Distribuidos, Soberanía del Dato, LegalTech/TaxTech
