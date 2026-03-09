@@ -26,19 +26,19 @@ Matriz de proyectos enfocados en escalabilidad, soberanía de datos y sistemas d
 
 | Proyecto | Estado | Descripción | Dominio |
 | :--- | :---: | :--- | :--- |
-| **[VeriStack]** | 🟢 **Live** | RAG Self-hosted & orquestador PKCS12 para cumplimiento fiscal Zero-Trust. | *Core API & AI* |
-| **[FlowNode]** | 🟢 **Live** | Motor distributed Celery de alto throughput para procesamiento asíncrono. | *Event-Driven* |
-| **[TerraStack]** | 🟢 **Live** | Templates Infrastructure-as-Code (Terraform/Ansible) para despliegues Zero-Trust. | *DevOps/IaC* |
-| **[PyVeri]** | 🟢 **Live** | SDK de Python *type-safe* y sin dependencias para validación criptográfica profunda. | *Python SDK* |
+| **[VeriStack](https://github.com/franamaro-dev/VeriStack)** | 🟢 **Live** | RAG Self-hosted & orquestador PKCS12 para cumplimiento fiscal Zero-Trust. | *Core API & AI* |
+| **[FlowNode](https://github.com/franamaro-dev/FlowNode)** | 🟢 **Live** | Motor distributed Celery de alto throughput para procesamiento asíncrono. | *Event-Driven* |
+| **[TerraStack](https://github.com/franamaro-dev/TerraStack)** | 🟢 **Live** | Templates Infrastructure-as-Code (Terraform/Ansible) para despliegues Zero-Trust. | *DevOps/IaC* |
+| **[PyVeri](https://github.com/franamaro-dev/PyVeri)** | 🟢 **Live** | SDK de Python *type-safe* y sin dependencias para validación criptográfica profunda. | *Python SDK* |
 
 ### 🛠️ Soluciones de Negocio e Integraciones (Generalist Portfolio)
 Proyectos prácticos que demuestran mi versatilidad para construir soluciones de mercado "todoterreno".
 
 | Proyecto | Estado | Descripción | Dominio |
 | :--- | :--- | :--- | :--- |
-| **[Store-Inventory-API]** | 🟢 **Live** | API REST CRUD clásica con PostgreSQL y SQLAlchemy 2.0. Patrón repositorio. | *Business API* |
-| **[Telegram-AI-Bot]** | 🟢 **Live** | Integración asíncrona de Webhooks de Telegram y modelos de OpenAI (GPT-4o). | *Integrations* |
-| **[Price-Scraper]** | 🟢 **Live** | Script ETL de alto rendimiento para extracción y limpieza masiva de datos web. | *Data Scraper* |
+| **[Store-Inventory-API](https://github.com/franamaro-dev/Store-Inventory-API)** | 🟢 **Live** | API REST CRUD clásica con PostgreSQL y SQLAlchemy 2.0. Patrón repositorio. | *Business API* |
+| **[Telegram-AI-Bot](https://github.com/franamaro-dev/Telegram-AI-Bot)** | 🟢 **Live** | Integración asíncrona de Webhooks de Telegram y modelos de OpenAI (GPT-4o). | *Integrations* |
+| **[Price-Scraper](https://github.com/franamaro-dev/Price-Scraper)** | 🟢 **Live** | Script ETL de alto rendimiento para extracción y limpieza masiva de datos web. | *Data Scraper* |
 
 ---
 
@@ -51,6 +51,6 @@ Proyectos prácticos que demuestran mi versatilidad para construir soluciones de
 </div>
 
 ---
-### 📬 Conectemos
 - 💼 **Enfoque:** Desarrollador Senior / Mid | Backend & Automation
 - 📍 **Intereses:** Sistemas Distribuidos, Integraciones AI, Optimización de Procesos, Fullstack Web.
+- 🔗 **GitHub:** [franamaro-dev](https://github.com/franamaro-dev)
