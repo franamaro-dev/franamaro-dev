@@ -30,9 +30,9 @@ Esta es mi matriz principal de proyectos de infraestructura Open-Source.
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franamaro-dev&show_icons=true&theme=nord&hide_border=true&title_color=009688&text_color=ffffff&bg_color=18181B" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franamaro-dev&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franamaro-dev&theme=nord&hide_border=true&background=18181B&ring=009688&fire=009688&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franamaro-dev&theme=nord&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
