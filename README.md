@@ -39,6 +39,7 @@ Proyectos prácticos que demuestran mi versatilidad para construir soluciones de
 | **[Store-Inventory-API](https://github.com/franamaro-dev/Store-Inventory-API)** | 🟢 **Live** | API REST CRUD clásica con PostgreSQL y SQLAlchemy 2.0. Patrón repositorio. | *Business API* |
 | **[Telegram-AI-Bot](https://github.com/franamaro-dev/Telegram-AI-Bot)** | 🟢 **Live** | Integración asíncrona de Webhooks de Telegram y modelos de OpenAI (GPT-4o). | *Integrations* |
 | **[Price-Scraper](https://github.com/franamaro-dev/Price-Scraper)** | 🟢 **Live** | Script ETL de alto rendimiento para extracción y limpieza masiva de datos web. | *Data Scraper* |
+| **[MediScribe-AI](https://github.com/franamaro-dev/mediscribe-ai-backend)** | 🟢 **Live** | Automatización de informes clínicos (FastAPI + LangChain) con arquitectura limpia. | *HealthTech AI* |
 
 ---
 
