@@ -1,52 +1,57 @@
-# 🤖 Francisco Amaro
+<div align="center">
+  <img src="banner.png" width="100%" alt="SOC Operations & DevSecOps Banner" />
 
-### Full Stack Entrepreneur | SOC Analyst L1 | DevSecOps Engineer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franamaro)
-[![Ciberseguridad](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=fortinet&logoColor=white)]()
-[![SOC Analyst](https://img.shields.io/badge/Role-SOC_Analyst_L1-blue?style=for-the-badge&logo=splunk&logoColor=white)]()
-
----
-
-## 🛡️ Cybersecurity & SOC Operations
-
-Me especializo en la intersección entre el desarrollo de software de alta disponibilidad y la seguridad defensiva. Mi enfoque se centra en la **integridad de datos**, el ** hardening de infraestructura** y la **automatización de respuesta ante incidentes (SOAR)**.
-
-### 🔬 Laboratorios de Seguridad Recientes
-
-- **[VeriFactu-SOC-Demo](https://github.com/franamaro-dev/VeriFactu-SOC-Demo)**: Implementación de la Ley Antifraude con encadenamiento de hashes SHA-256 e IDS (Intrusion Detection System) integrado para monitorización de integridad en tiempo real.
-- **[SOC-L1-Level-Demo](https://github.com/franamaro-dev/SOC-L1-Level-Demo)**: Laboratorio de monitorización mediante Honeypots y generación de alertas Syslog para simulación de triaje L1 y automatización con n8n.
-- **[TerraStack](https://github.com/franamaro-dev/TerraStack)**: Infraestructura como Código (IaC) orientada a **Zero-Trust**, garantizando perímetros seguros desde el despliegue inicial.
+  # 🤖 Francisco Amaro
+  ### Senior Full Stack Developer | SOC Analyst L1 | DevSecOps Engineer
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franamaro)
+  [![Focus](https://img.shields.io/badge/Cybersecurity-Defensive-red?style=for-the-badge&logo=fortinet&logoColor=white)]()
+  [![SOC Role](https://img.shields.io/badge/SOC_Analyst-L1_Operations-blue?style=for-the-badge&logo=splunk&logoColor=white)]()
+  [![Compliance](https://img.shields.io/badge/Compliance-VeriFactu-green?style=for-the-badge&logo=blueprint&logoColor=white)]()
+</div>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🕵️‍♂️ SOC Command Center: Recent Labs & "Proof of Work"
 
-### Defensa y Monitorización
-- **SIEM/EDR**: Conocimiento en análisis de logs (formatos Syslog, JSON, CEF).
-- **Network Security**: Wireshark, Nmap, Firewall Hardening.
-- **Compliance**: Familiaridad con normativas VeriFactu (España), GDPR y esquemas HIPAA.
+He transformado mi experiencia como desarrollador Full Stack en una fortaleza defensiva. Aquí tienes la "Trinidad" de mis laboratorios de seguridad proactiva:
 
-### Desarrollo y DevSecOps
-- **Lenguajes**: Python (FastAPI), JavaScript.
-- **Infraestructura**: Docker, Kubernetes, Terraform.
-- **Seguridad en CI/CD**: Escaneo de vulnerabilidades (Trivy), Secrets Management.
-- **Automatización SOC**: n8n (Orquestación de alertas y remediación).
+| Proyecto | Core Focus | Tecnologías Secundarias |
+|:--- |:--- |:--- |
+| **[VeriFactu-SOC-Demo](https://github.com/franamaro-dev/VeriFactu-SOC-Demo)** | **Integridad de Datos** & Hashing Chain | Python, SQLite, Hashlib |
+| **[SOC-L1-Level-Demo](https://github.com/franamaro-dev/SOC-L1-Level-Demo)** | **Honeypots** & Syslog Detection | http.server, Regex Signatures |
+| **[Secure-MediScribe](https://github.com/franamaro-dev/mediscribe-ai-backend)** | **DevSecOps** & API Hardening | FastAPI, Pydantic, Security Headers |
 
 ---
 
-## 📈 Proyectos Full Stack (Hardened)
+## 🛠️ Stack Tecnológico de Vanguardia
 
-- **[Secure-MediScribe](https://github.com/franamaro-dev/mediscribe-ai-backend)**: Backend de automatización clínica diseñado con validación estricta de esquemas Pydantic para mitigar ataques de inyección de datos.
-- **[Store-Inventory-API](https://github.com/franamaro-dev/Store-Inventory-API)**: API corporativa con seguridad JWT y control de acceso granular.
+### 🧱 Defensa & Infraestructura (Defensive Ops)
+- **SIEM/Detection**: Análisis de payloads, detección de inyecciones (SQLi, XSS, RCE).
+- **Hardening**: Gestión de cabeceras HTTP, CORS restrictivo, protección contra Clickjacking.
+- **Infras-as-Code**: Despliegues seguros con **Docker** y **Terraform** (Zero-Trust Mindset).
+
+### 🤖 Automatización & DevSecOps
+- **SOAR Concept**: Orquestación de alertas con **n8n** (triaje automático y escalado).
+- **Secure Code**: Validación estricta de esquemas, sanitización de inputs y gestión de secretos.
 
 ---
 
-## 📫 Conecta conmigo
-- 💼 Buscando nuevos retos en equipos de **Ciberseguridad / SOC / DevSecOps**.
-- 📍 Jaén, España (Disponible para remoto/presencial).
-- 💬 Hablemos sobre: Ciberseguridad proactiva, automatización de procesos y el futuro de la IA en la defensa.
+## 📊 Métricas de Ingeniería & Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franamaro-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franamaro-dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franamaro-dev&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Let's Neutralize Threats Together
+- 💼 Buscando impactar en equipos de **SOC Analyst / DevSecOps Engineer**.
+- 📍 Jaén, España (Global Ready).
+- 💬 Hablemos sobre: **Ciberseguridad Proactiva**, **Inteligencia de Amenazas** y **Automatización Defensiva**.
+
+<div align="center">
+  <sub>"La seguridad no es un producto, es un proceso incesante."</sub>
 </div>
