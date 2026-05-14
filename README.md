@@ -1,57 +1,77 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="SOC Operations & DevSecOps Banner" />
 
-  # 🤖 Francisco Amaro
-  ### Senior Full Stack Developer | SOC Analyst L1 | DevSecOps Engineer
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franamaro)
-  [![Focus](https://img.shields.io/badge/Cybersecurity-Defensive-red?style=for-the-badge&logo=fortinet&logoColor=white)]()
-  [![SOC Role](https://img.shields.io/badge/SOC_Analyst-L1_Operations-blue?style=for-the-badge&logo=splunk&logoColor=white)]()
-  [![Compliance](https://img.shields.io/badge/Compliance-VeriFactu-green?style=for-the-badge&logo=blueprint&logoColor=white)]()
+# Francisco Amaro Prieto
+
+**Backend Engineer & SOC L1 Analyst** · Remote-first (Spain)
+Building secure, multi-tenant SaaS with FastAPI, Next.js and Supabase.
+Fiscal compliance (**VeriFactu / RD 1007/2023**), payments (Stripe), and DevSecOps.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/franamaro)
+[![Email](https://img.shields.io/badge/Email-franamaroprieto%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:franamaroprieto@gmail.com)
+[![Open to work](https://img.shields.io/badge/Status-Open%20to%20Remote%20Roles-2EA043?style=flat-square)]()
+
 </div>
 
 ---
 
-## 🕵️‍♂️ SOC Command Center: Recent Labs & "Proof of Work"
+## What I'm working on
 
-He transformado mi experiencia como desarrollador Full Stack en una fortaleza defensiva. Aquí tienes la "Trinidad" de mis laboratorios de seguridad proactiva:
+| Project | Stack | Domain |
+|---------|-------|--------|
+| **Traza / VeriFactu** (private) | FastAPI · PostgreSQL · Redis · XAdES signing | Spanish fiscal compliance API |
+| **Barista** (private) | Next.js 16 RSC · Supabase RLS · Stripe · i18n | Multi-tenant SaaS for hospitality (QR ordering) |
+| **Synchrona CRM** (private) | Next.js 16 · Supabase · Drizzle ORM | Operational CRM with Verifactu integration |
 
-| Proyecto | Core Focus | Tecnologías Secundarias |
-|:--- |:--- |:--- |
-| **[VeriFactu-SOC-Demo](https://github.com/franamaro-dev/VeriFactu-SOC-Demo)** | **Integridad de Datos** & Hashing Chain | Python, SQLite, Hashlib |
-| **[SOC-L1-Level-Demo](https://github.com/franamaro-dev/SOC-L1-Level-Demo)** | **Honeypots** & Syslog Detection | http.server, Regex Signatures |
-| **[Secure-MediScribe](https://github.com/franamaro-dev/mediscribe-ai-backend)** | **DevSecOps** & API Hardening | FastAPI, Pydantic, Security Headers |
-
----
-
-## 🛠️ Stack Tecnológico de Vanguardia
-
-### 🧱 Defensa & Infraestructura (Defensive Ops)
-- **SIEM/Detection**: Análisis de payloads, detección de inyecciones (SQLi, XSS, RCE).
-- **Hardening**: Gestión de cabeceras HTTP, CORS restrictivo, protección contra Clickjacking.
-- **Infras-as-Code**: Despliegues seguros con **Docker** y **Terraform** (Zero-Trust Mindset).
-
-### 🤖 Automatización & DevSecOps
-- **SOAR Concept**: Orquestación de alertas con **n8n** (triaje automático y escalado).
-- **Secure Code**: Validación estricta de esquemas, sanitización de inputs y gestión de secretos.
+> Open-source extracts and sanitized case studies below.
 
 ---
 
-## 📊 Métricas de Ingeniería & Actividad
+## Showcase repositories
+
+| Repo | What it shows | Stack |
+|------|---------------|-------|
+| [**VeriStack**](https://github.com/franamaro-dev/VeriStack) | Microservices for cryptographic validation + fiscal automation (n8n + FastAPI + Docker) | Python · FastAPI · n8n · Docker |
+| [**TerraStack**](https://github.com/franamaro-dev/TerraStack) | Zero-Trust IaC templates for cloud deployments | Terraform · Ansible · HCL |
+| [**Store-Inventory-API**](https://github.com/franamaro-dev/Store-Inventory-API) | Production-grade REST API with auth, migrations, RBAC | FastAPI · SQLAlchemy 2.0 · Alembic · JWT · PostgreSQL |
+| [**FlowNode**](https://github.com/franamaro-dev/FlowNode) | High-throughput distributed task engine | Python · Celery · Redis · asyncio |
+| [**Telegram-AI-Bot**](https://github.com/franamaro-dev/Telegram-AI-Bot) | Event-driven AI bot with webhooks + GPT-4o | FastAPI · OpenAI · Webhooks |
+| [**PyVeri**](https://github.com/franamaro-dev/PyVeri) | Zero-dependency, type-safe crypto-validation SDK | Python · stdlib only · type-safe |
+
+### Security & SOC
+
+| Repo | What it shows |
+|------|---------------|
+| [**VeriFactu-SOC-Demo**](https://github.com/franamaro-dev/VeriFactu-SOC-Demo) | Tamper-evident hash-chain for fiscal data integrity (RD 1007/2023 spirit) |
+| [**SOC-L1-Level-Demo**](https://github.com/franamaro-dev/SOC-L1-Level-Demo) | Honeypots, syslog detection, regex signatures for SOC L1 triage |
+| [**mediscribe-ai-backend**](https://github.com/franamaro-dev/mediscribe-ai-backend) | DevSecOps hardening: Pydantic validation, security headers, OWASP auth flow |
+
+---
+
+## Tech stack
+
+**Backend** &nbsp; Python · FastAPI · SQLAlchemy 2.0 · Alembic · Celery · Redis · PostgreSQL
+**Frontend** &nbsp; TypeScript · Next.js 16 (App Router · RSC) · React 19 · Tailwind
+**Infra & Sec** &nbsp; Docker · Terraform · Ansible · Nginx · GitHub Actions · OWASP
+**Data & Auth** &nbsp; Supabase (Postgres + RLS) · Drizzle ORM · JWT · OAuth2
+**Payments & Compliance** &nbsp; Stripe · Bizum · VeriFactu (RD 1007/2023) · XAdES
+
+---
+
+## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franamaro-dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franamaro-dev&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+
+![Stats](https://github-readme-stats.vercel.app/api?username=franamaro-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent)
+![Streak](https://streak-stats.demolab.com/?user=franamaro-dev&hide_border=true&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franamaro-dev&layout=compact&hide_border=true&theme=transparent&hide=html,css)
+
 </div>
 
 ---
 
-## 📫 Let's Neutralize Threats Together
-- 💼 Buscando impactar en equipos de **SOC Analyst / DevSecOps Engineer**.
-- 📍 Jaén, España (Global Ready).
-- 💬 Hablemos sobre: **Ciberseguridad Proactiva**, **Inteligencia de Amenazas** y **Automatización Defensiva**.
-
 <div align="center">
-  <sub>"La seguridad no es un producto, es un proceso incesante."</sub>
+
+**Looking for**: backend / full-stack / DevSecOps roles · remote-first · Spain or EU-friendly time zones.
+Comfortable owning production systems end-to-end, from migration scripts to nginx reload.
+
 </div>
