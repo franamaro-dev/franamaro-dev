@@ -45,6 +45,13 @@ Fiscal compliance (**VeriFactu / RD 1007/2023**), payments (Stripe), and DevSecO
 | [**SOC-L1-Analyst-Lab**](https://github.com/franamaro-dev/SOC-L1-Analyst-Lab) | Honeypots, syslog detection, regex signatures for SOC L1 triage |
 | [**mediscribe-ai-backend**](https://github.com/franamaro-dev/mediscribe-ai-backend) | DevSecOps hardening: Pydantic validation, security headers, OWASP auth flow |
 
+## Case studies & writing
+
+| Item | Type | What it shows |
+|------|------|---------------|
+| [**Barista — Architecture Case Study**](https://github.com/franamaro-dev/barista-case-study) | System design | Multi-tenant SaaS: PostgreSQL RLS isolation, Stripe idempotent webhooks, VeriFactu fiscal compliance, RSC-first performance |
+| [**Building Tamper-Evident Invoicing (VeriFactu / RD 1007/2023)**](https://github.com/franamaro-dev/VeriFactu-Integrity-Lab/blob/master/ARTICLE.md) | Technical article | Hash-chain integrity, fail-closed compliance, DB-enforced invariants |
+
 ---
 
 ## Tech stack
