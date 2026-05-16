@@ -41,8 +41,8 @@ Fiscal compliance (**VeriFactu / RD 1007/2023**), payments (Stripe), and DevSecO
 
 | Repo | What it shows |
 |------|---------------|
-| [**VeriFactu-SOC-Demo**](https://github.com/franamaro-dev/VeriFactu-SOC-Demo) | Tamper-evident hash-chain for fiscal data integrity (RD 1007/2023 spirit) |
-| [**SOC-L1-Level-Demo**](https://github.com/franamaro-dev/SOC-L1-Level-Demo) | Honeypots, syslog detection, regex signatures for SOC L1 triage |
+| [**VeriFactu-Integrity-Lab**](https://github.com/franamaro-dev/VeriFactu-Integrity-Lab) | Tamper-evident hash-chain for fiscal data integrity (RD 1007/2023 spirit) |
+| [**SOC-L1-Analyst-Lab**](https://github.com/franamaro-dev/SOC-L1-Analyst-Lab) | Honeypots, syslog detection, regex signatures for SOC L1 triage |
 | [**mediscribe-ai-backend**](https://github.com/franamaro-dev/mediscribe-ai-backend) | DevSecOps hardening: Pydantic validation, security headers, OWASP auth flow |
 
 ---
