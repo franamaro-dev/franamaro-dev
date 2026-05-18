@@ -30,6 +30,7 @@ Fiscal compliance (**VeriFactu / RD 1007/2023**), payments (Stripe), and DevSecO
 
 | Repo | What it shows | Stack |
 |------|---------------|-------|
+| [**voice-ai-agent**](https://github.com/franamaro-dev/voice-ai-agent) ⭐ | Inbound Voice AI: telephony (Twilio/SIP) → STT → LLM → TTS → CRM, orchestrated with n8n. Swappable providers, fail-closed, 18 tests | Python · FastAPI · Twilio · n8n |
 | [**verifactu-core**](https://github.com/franamaro-dev/verifactu-core) ⭐ | Zero-dep, fully-typed OSS library: tamper-evident invoice hash chains for VeriFactu / RD 1007/2023. 98% coverage, strict mypy, CI 3.11-3.13 | Python · stdlib only · pytest |
 | [**VeriStack**](https://github.com/franamaro-dev/VeriStack) | Microservices for cryptographic validation + fiscal automation (n8n + FastAPI + Docker) | Python · FastAPI · n8n · Docker |
 | [**TerraStack**](https://github.com/franamaro-dev/TerraStack) | Zero-Trust IaC templates for cloud deployments | Terraform · Ansible · HCL |
